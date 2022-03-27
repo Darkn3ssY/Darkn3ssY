@@ -1,6 +1,6 @@
 # Hi there, I'm Yasser  👋
 
-## I'm a Engineering Student atm!!
+## Engineering Student atm!!
 
 
 - 🌱 I’m currently learning everything 🤣
