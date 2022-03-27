@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about Cs and web3
-- ⚡ Fun fact: Sometimes I spend almost 12 hours playing VideoGames with friends
+
 
 ### Connect with me:
 
