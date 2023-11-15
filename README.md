@@ -8,16 +8,6 @@
 - 🥅 2022 Goals: Learn more about Cs and web3
 
 
-### Connect with me:
-
-
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yasser-sdiki-29a42a213/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yasser-sdiki-29a42a213/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/yassernw4/r#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/yassernw4/#gh-dark-mode-only)
-&nbsp;&nbsp;
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
